@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Suraj
 
-<!--
-**suraj075-AI/suraj075-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE Student
+🚀 Future Software Engineer | DSA Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Currently learning: Data Structures & Algorithms
+* 🎯 Goal: Crack top MNCs
+* ⚡ I build logic before I build code
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj075-AI\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=suraj075-AI\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (add your link here)
+* 📧 Email: (add your email here)
+
+---
+
+✨ *Building today for a stronger tomorrow*
