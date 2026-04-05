@@ -35,8 +35,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (add your link here)
-* 📧 Email: (add your email here)
+* 💼 LinkedIn: (www.linkedin.com/in/suraj-kumar-prajapati-6565183b4)
+* 📧 Email: (surajkumar07570@gmai.com)
 
 ---
 
